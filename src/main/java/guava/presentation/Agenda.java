@@ -13,7 +13,7 @@ public class Agenda {
 
     ImmutableCollections third;
 
-    ClassToInstanceMap four;
+    NewCollectionTypes four;
 
     CollectionsStaticConstructors f;
 

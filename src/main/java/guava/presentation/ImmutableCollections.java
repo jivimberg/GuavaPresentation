@@ -20,7 +20,7 @@ public class ImmutableCollections {
      * The JDK provides Collections.unmodifiableXXX methods
      */
     public Set<String> jdkUnmodifiable(){
-        Set<String> modifiableSet = new HashSet<String>();
+        Set<String> modifiableSet = new HashSet<>();
         modifiableSet.add("a");
         modifiableSet.add("b");
         modifiableSet.add("c");

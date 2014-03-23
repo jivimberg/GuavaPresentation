@@ -10,7 +10,7 @@ import java.util.Random;
 /**
  * "I call it my billion-dollar mistake." - Sir C. A. R. Hoare, on his invention of the null reference
  */
-@SuppressWarnings({"UnusedDeclaration", "UnusedAssignment"})
+@SuppressWarnings({"UnusedDeclaration", "UnusedAssignment", "StatementWithEmptyBody"})
 public class UsingAndAvoidingNull {
 
     void nullIsAmbiguous(Map map){
@@ -69,7 +69,6 @@ public class UsingAndAvoidingNull {
 
         //or
         System.out.println("Value or default: " + optional.or("Default value"));
-
     }
 
     /**

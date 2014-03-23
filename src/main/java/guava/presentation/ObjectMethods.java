@@ -4,6 +4,7 @@ import com.google.common.collect.ComparisonChain;
 import com.google.common.collect.Ordering;
 import guava.testground.Employee;
 
+@SuppressWarnings("UnusedDeclaration")
 public class ObjectMethods {
     /**
      * Guava has some improvements in the equals(), hashCode() and toString() methods.
@@ -12,7 +13,7 @@ public class ObjectMethods {
      */
     Employee incompleteEmployee;
 
-    // -------------------- COMPARISON CHAIN --------------------
+    // -------------------- Comparison Chain --------------------
 
     private class Person {
         private String name;
