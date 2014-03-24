@@ -7,19 +7,26 @@ package guava.presentation;
  */
 public class Agenda {
 
-    UsingAndAvoidingNull first;
+    UsingAndAvoidingNull
+            introducingOptional;
 
-    ObjectMethods second;
+    ObjectMethods
+            equalsComparisonEtc;
 
-    ImmutableCollections third;
+    ImmutableCollections
+            whyUseItHowToCreateThem;
 
-    NewCollectionTypes four;
+    NewCollectionTypes
+            MultiMapAndClassToInstanceMap;
 
-    CollectionsStaticConstructors f;
+    CollectionsStaticConstructors
+            coolConstructors;
 
-    //TODO caches?
+    Caches
+            allAboutCaches;
 
-    FunctionalIdioms fi;
+    FunctionalIdioms
+            collectionsFunctionalStyle;
 
     //TODO Concurrency -> Futures?
 }
