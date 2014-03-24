@@ -1,4 +1,4 @@
-package guava.presentation;
+package guava.presentation.sections;
 
 import com.google.common.base.Optional;
 import com.google.common.collect.ImmutableList;

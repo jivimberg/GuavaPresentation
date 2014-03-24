@@ -1,10 +1,7 @@
-package guava.presentation;
+package guava.presentation.sections;
 
-import com.google.common.collect.HashMultimap;
-import com.google.common.collect.ImmutableSet;
-import com.google.common.collect.Multimap;
-
-import java.util.Set;
+import guava.presentation.sections.newcollections.ClassToInstanceMapSection;
+import guava.presentation.sections.newcollections.MultiMapSection;
 
 /**
  * There are a couple of interensting new collections introduced in Guava:

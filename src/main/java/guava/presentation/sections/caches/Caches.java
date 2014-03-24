@@ -1,4 +1,4 @@
-package guava.presentation;
+package guava.presentation.sections.caches;
 
 import com.google.common.cache.*;
 import com.google.common.collect.ImmutableSet;

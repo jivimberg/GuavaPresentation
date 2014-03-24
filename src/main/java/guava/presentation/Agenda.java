@@ -1,5 +1,9 @@
 package guava.presentation;
 
+import guava.presentation.sections.*;
+import guava.presentation.sections.caches.Caches;
+import guava.presentation.sections.objectmethods.ObjectMethods;
+
 /**
  * This is a Guava Presentation. Yes a presentation, fuck Prezi.
  * It' objective is to introduce some features of the Guava Library we could use on our code.

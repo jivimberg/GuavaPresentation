@@ -1,4 +1,4 @@
-package guava.presentation;
+package guava.presentation.sections.newcollections;
 
 import com.google.common.collect.ClassToInstanceMap;
 import com.google.common.collect.MutableClassToInstanceMap;

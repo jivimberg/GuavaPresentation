@@ -1,4 +1,4 @@
-package guava.testground;
+package guava.presentation.sections.objectmethods;
 
 /**
  * Pojo to demonstrate the power of Intellij generate

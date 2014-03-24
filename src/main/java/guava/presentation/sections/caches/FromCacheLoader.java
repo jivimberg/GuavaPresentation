@@ -1,4 +1,4 @@
-package guava.presentation;
+package guava.presentation.sections.caches;
 
 import com.google.common.cache.CacheBuilder;
 import com.google.common.cache.CacheLoader;

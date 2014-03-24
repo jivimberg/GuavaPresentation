@@ -1,15 +1,14 @@
-package guava.presentation;
+package guava.presentation.sections.objectmethods;
 
 import com.google.common.collect.ComparisonChain;
 import com.google.common.collect.Ordering;
-import guava.testground.Employee;
 
 @SuppressWarnings("UnusedDeclaration")
 public class ObjectMethods {
     /**
      * Guava has some improvements in the equals(), hashCode() and toString() methods.
      * But I'd rather use Intellij generate functionality.
-     * See {@link guava.testground.Employee}
+     * See {@link Employee}
      */
     Employee incompleteEmployee;
 
