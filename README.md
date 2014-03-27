@@ -5,7 +5,7 @@ This project was created as a presentation (yes a presentation, 'cause why not?)
 
 You should probably start throgh [Agenda.java](src/main/java/guava/presentation/Agenda.java)
 
-By the most part this presentation is based on the [Guava Wiki] and complemenented with some extra examples.
+This presentation is heavily based on the [Guava Wiki] and complemenented with some extra examples.
 
 *Please note that this presentation does not cover all of Guava features, some of them were intentionally excluded from this presentation.*
 
