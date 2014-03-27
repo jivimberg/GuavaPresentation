@@ -16,6 +16,7 @@ import guava.presentation.sections.newcollections.MultiMapSection;
  * I'll only exemplify the last 2 because those where the ones that caught my eye.
  * For the other ones refer to Guava's documentation
  */
+@SuppressWarnings("UnusedDeclaration")
 public class NewCollectionTypes {
 
     MultiMapSection examplesOnMultiMaps;

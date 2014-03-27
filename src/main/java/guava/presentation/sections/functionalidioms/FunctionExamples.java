@@ -9,6 +9,7 @@ import java.util.List;
  * Functions are mainly used to transform collections
  * Note that all Guava transform methods return views of the original collection.
  */
+@SuppressWarnings("UnusedDeclaration")
 public class FunctionExamples {
 
     // I will use a list for the examples but most methods

@@ -10,6 +10,7 @@ import guava.presentation.sections.objectmethods.ObjectMethods;
  * It's objective is to introduce some features of the Guava Library we could use on our code.
  * I'll not cover all features in the Guava Library, instead I'll just highlight the ones I consider most useful.
  */
+@SuppressWarnings("UnusedDeclaration")
 public class Agenda {
 
     UsingAndAvoidingNull

@@ -8,7 +8,7 @@ import com.google.common.collect.ImmutableSet;
 import java.io.IOException;
 import java.util.concurrent.ExecutionException;
 
-@SuppressWarnings("UnnecessaryLocalVariable")
+@SuppressWarnings({"UnnecessaryLocalVariable", "UnusedDeclaration"})
 public class FromCacheLoader {
 
     public LoadingCache<String, String> create(){
